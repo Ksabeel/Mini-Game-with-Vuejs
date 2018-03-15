@@ -1,1 +1,1 @@
-# My First project with vue.js
+# Small Game with Vue JS
